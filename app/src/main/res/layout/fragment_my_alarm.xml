@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/my_alarm_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <View
+        android:id="@+id/my_alarm_left"
+        android:layout_width="@dimen/my_alarm_left"
+        android:layout_height="match_parent" />
+
+    <ImageView
+        android:id="@+id/my_clarm_bg_img"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+
+    <ListView
+        android:id="@+id/MyAlarmList"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" >
+    </ListView>
+
+</RelativeLayout>

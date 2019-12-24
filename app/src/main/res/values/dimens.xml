@@ -1,0 +1,18 @@
+<resources>
+
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="item_horizontal_margin">20dp</dimen>
+    <dimen name="item_vertical_margin">16dp</dimen>
+    <dimen name="menu_left_margin">64dp</dimen>
+    <dimen name="menu_right_margin">64dp</dimen>
+    <dimen name="my_alarm_left">64dp</dimen>
+    <dimen name="my_alarm_splitter_height">24dp</dimen>
+    <dimen name="alarm_setter_height">96dp</dimen>
+    
+    <dimen name="grid_item_dim">74dp</dimen>
+    <dimen name="grid_item_pic_dim">54dp</dimen>
+    <dimen name="grid_item_txt_dim">64dp</dimen>
+
+</resources>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="ok">确定</string>
+    <string name="cancel">取消</string>
+    <string name="app_name">CustomAlarm</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="number_picker">Number Picker</string>
+    <string name="title_activity_alarm_detail">AlarmDetail</string>
+    <string name="activity_alarm_ring">RingAlarm</string>
+    <string name="my_alarm">My Alarm</string>
+    <string name="set_alarm">Set Alarm</string>
+    <string name="default_alarm_tag">Item 1</string>
+    <string name="default_alarm_remark">remark</string>
+    <string name="default_alarm_time">Sub item 1</string>
+    <string name="save_alarm">save</string>
+    <string name="Alarm_out_of_date">Alarm out of date</string>
+    <string name="delete_alarm">delete alarm</string>
+    <string name="title_activity_set_alarm">SetAlarmActivity</string>
+    <string name="alarm_daily">Daily Alarm</string>
+    <string name="alarm_weekly">Weekly Alarm</string>
+    <string name="alarm_monthly">Monthly Alarm</string>
+    <string name="alarm_yearly">Yearly Alarm</string>
+    <string name="alarm_instant">Instant Alarm</string>
+    <string name="alarm_count_down">Countdown Alarm</string>
+    <string name="dix_daily">Everyday Ring At</string>
+    <string name="dix_weekly">Every Week Ring At</string>
+    <string name="dix_monthly">Every Month Ring At</string>
+    <string name="dix_yearly">Every Year Ring At</string>
+    <string name="dix_instant">Instant Alarm</string>
+    <string name="dix_count_down">Countdown Alarm</string>
+    <string name="year">Year</string>
+    <string name="month">Month</string>
+    <string name="day">Day</string>
+    <string name="hour">Hour</string>
+    <string name="minute">Minute</string>
+    <string name="second">Second</string>
+    <string name="Monday">Mon</string>
+    <string name="Tuesday">Tue</string>
+    <string name="Wednesday">Wed</string>
+    <string name="Thursday">Thu</string>
+    <string name="Friday">Fri</string>
+    <string name="Saturday">Sat</string>
+    <string name="Sunday">Sun</string>
+    <string name="Stop">Stop</string>
+    <string name="Delay">Delay</string>
+
+</resources>
